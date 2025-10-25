@@ -1,1 +1,2 @@
 git init: initialize git in a directory
+git add -A
